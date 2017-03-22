@@ -126,7 +126,7 @@ Now click on `div` 5. You should see
 2 captured
 3 captured
 4 captured
-5 bubbled # you won't see this if you refreshed the page
+5 bubbled # you won't see this if you refreshed the page  IF YOU HADN'T REFRESHED THE PAGE CONST DIVS COULDN'T BE DEFINED AGAIN
 5 captured
 ```
 
